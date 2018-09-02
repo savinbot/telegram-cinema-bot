@@ -1,4 +1,4 @@
 module.exports = {
-  TOKEN: '531279909:AAGWTf1Y8WXA9JCcXcgdbgsC9xdrmY5Pocw',
+  TOKEN: '395073680:AAEW9RsEdUZKNLC4BYkQEk6bU2cmzM9UVdw',
   DB_URL: 'mongodb://localhost/youtube-video'
 }
